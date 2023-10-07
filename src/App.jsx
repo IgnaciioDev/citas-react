@@ -14,6 +14,7 @@ function App() {
     <div className="container mx-auto mt-20">
       <Header
         toma1Valor = {toma1Valor}
+
       />
       <div className="mt-12 md:flex">
         <Formulario/>
